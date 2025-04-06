@@ -1,1 +1,1 @@
-include pygame_music_materials/musics/*.mp3 
+include pygame_music_materials/musics/*.wav 

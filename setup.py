@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     package_data={
-        "pygame_music_materials": ["musics/*.mp3"],
+        "pygame_music_materials": ["musics/*.wav"],
     },
     install_requires=[
         "pygame>=2.5.2",
